@@ -19,6 +19,7 @@
     "axios": "^0.26.1",
     "formik": "^2.2.9",
     "framer-motion": "^6",
+    "moment-timezone": "^0.5.34",
     "next": "12.1.4",
     "react": "18.0.0",
     "react-dom": "18.0.0",
